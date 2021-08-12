@@ -25,4 +25,3 @@ int main()
 	return 0;
 }
 
-// The copied String-2 = Nithin
